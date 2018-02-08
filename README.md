@@ -1,4 +1,4 @@
-# AircraftChecklist
+# Aircraft Checklist
 #### Aircraft Checklist Appliction - We are starting out with a preflight checklist.  
 If time allows we will add more features such as:
 * More aircraft models
