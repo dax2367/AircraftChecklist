@@ -10,6 +10,7 @@ If time allows we will add more features such as:
   * emergency
 * NOTAMS
 * Preflight aviation weather forcasts.
+---
 
 # User Stories
 Pilot starts preflight checklist, uses checklist to inspect aircraft, closes checklist.
